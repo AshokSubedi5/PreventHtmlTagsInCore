@@ -1,0 +1,9 @@
+C:\Users\ashok.subedi\Source\Repos\PreventHtmlCore\PreventHtmlCore\bin\Debug\netcoreapp2.1\PreventHtmlCore.deps.json
+C:\Users\ashok.subedi\Source\Repos\PreventHtmlCore\PreventHtmlCore\bin\Debug\netcoreapp2.1\PreventHtmlCore.dll
+C:\Users\ashok.subedi\Source\Repos\PreventHtmlCore\PreventHtmlCore\bin\Debug\netcoreapp2.1\PreventHtmlCore.pdb
+C:\Users\ashok.subedi\Source\Repos\PreventHtmlCore\PreventHtmlCore\obj\Debug\netcoreapp2.1\PreventHtmlCore.csproj.CoreCompileInputs.cache
+C:\Users\ashok.subedi\Source\Repos\PreventHtmlCore\PreventHtmlCore\obj\Debug\netcoreapp2.1\PreventHtmlCore.AssemblyInfoInputs.cache
+C:\Users\ashok.subedi\Source\Repos\PreventHtmlCore\PreventHtmlCore\obj\Debug\netcoreapp2.1\PreventHtmlCore.AssemblyInfo.cs
+C:\Users\ashok.subedi\Source\Repos\PreventHtmlCore\PreventHtmlCore\obj\Debug\netcoreapp2.1\PreventHtmlCore.dll
+C:\Users\ashok.subedi\Source\Repos\PreventHtmlCore\PreventHtmlCore\obj\Debug\netcoreapp2.1\PreventHtmlCore.pdb
+C:\Users\ashok.subedi\Source\Repos\PreventHtmlCore\PreventHtmlCore\obj\Debug\netcoreapp2.1\PreventHtmlCore.csprojAssemblyReference.cache

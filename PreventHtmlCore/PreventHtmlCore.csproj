@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <PackageId>PreventHtmlCore</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Ashok Subedi</Authors>
+    <PackageDescription>Attribute which Prevent Or Allow Html Tag.</PackageDescription>
+    <Description>Attribute which Prevent Or Allow Html Tag.</Description>
+  </PropertyGroup>  
+</Project>
+

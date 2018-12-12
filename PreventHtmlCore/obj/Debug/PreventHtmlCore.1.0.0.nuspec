@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PreventHtmlCore</id>
+    <version>1.0.0</version>
+    <authors>Ashok Subedi</authors>
+    <owners>Ashok Subedi</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Attribute which Prevent Or Allow Html Tag.</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ashok.subedi\Source\Repos\PreventHtmlCore\PreventHtmlCore\bin\Debug\netcoreapp2.1\PreventHtmlCore.dll" target="lib\netcoreapp2.1\PreventHtmlCore.dll" />
+  </files>
+</package>
